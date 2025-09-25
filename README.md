@@ -41,4 +41,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721291.png" width="40" height="40" alt="DSA" />
 </p>
 
+### 🐍 GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/logicscienc/logicscienc/output/dist/github-contribution-grid-snake.svg)
+
+
 
