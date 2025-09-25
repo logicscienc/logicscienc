@@ -43,7 +43,8 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/logicscienc/logicscienc/output/dist/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/logicscienc/logicscienc/main/dist/github-contribution-grid-snake.svg)
+
 
 
 
