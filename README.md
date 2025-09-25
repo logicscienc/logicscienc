@@ -11,7 +11,7 @@
 
     <!-- GIF on the right -->
  <td>
-      <img src="https://github.com/logicscienc/logicscienc/blob/main/shatbot.gif?raw=true" width="200" alt="Chatbot GIF">
+      <img src="https://github.com/logicscienc/logicscienc/blob/main/chatbot.gif?raw=true" width="200" alt="Chatbot GIF">
     </td>
   </tr>
 </table>
