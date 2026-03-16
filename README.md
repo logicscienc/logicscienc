@@ -45,6 +45,11 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/logicscienc/logicscienc/main/dist/github-contribution-grid-snake.svg)
 
+### 🟡 Pacman Contribution Game
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/logicscienc/logicscienc/output/pacman-contribution-graph.svg)
+
+
 ### 📈 GitHub Activity
 
 | . | . |
