@@ -21,7 +21,7 @@ jobs:
       - name: Move generated file
         run: |
           mkdir output
-          mv pacman-contribution-graph.svg output/
+          cp dist/pacman-contribution-graph.svg output/
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
