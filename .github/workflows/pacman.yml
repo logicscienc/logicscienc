@@ -10,10 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Generate Pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pacman Game
+        uses: abozanona/pacman-contribution-graph@2.4.0
         with:
           github_user_name: logicscienc
 
